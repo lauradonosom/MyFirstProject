@@ -1,2 +1,2 @@
 # MyFirstProject
- Java Porject for educational purposes.
+ Java Project for educational purposes.
